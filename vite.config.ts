@@ -10,8 +10,7 @@ export default defineConfig({
     allowedHosts: [
       'walrus-app-wj3f5.ondigitalocean.app'
     ]
-  }
-,
+  },
   plugins: [
     react({
       babel: {
