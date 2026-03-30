@@ -8,7 +8,7 @@ const Menu = (props: Props) => {
     return (
         <header className='menu'>
             <div className='logo'>
-                <img src='public/ssc-logo.jpeg'></img>
+                <img src='ssc-logo.jpeg'></img>
             </div>
             <input
                 className="search-bar"
